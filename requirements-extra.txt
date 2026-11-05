@@ -1,0 +1,5 @@
+# Optional bonus models (the core pipeline works without them)
+-r requirements.txt
+xgboost>=2.0
+lightgbm>=4.0
+tensorflow>=2.15      # Keras feed-forward neural network (use tensorflow-cpu on machines without GPU)
