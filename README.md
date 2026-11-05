@@ -1,6 +1,6 @@
 # News Category Classification (AG News)
 
-[![CI](https://github.com/YOUR-USERNAME/news-category-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/news-category-classification/actions)
+[![CI](https://github.com/salikhussain71-code/news-category-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/news-category-classification/actions)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)
 ![Keras](https://img.shields.io/badge/Keras-optional-red)
@@ -100,7 +100,7 @@ news-category-classification/
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR-USERNAME/news-category-classification.git
+git clone https://github.com/salikhussain71-code/news-category-classification.git
 cd news-category-classification
 
 # 2. Create a virtual environment
